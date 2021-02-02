@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 [![Sooyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooyoung-Lim&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
